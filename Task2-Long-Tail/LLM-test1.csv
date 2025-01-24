@@ -227,41 +227,11 @@ Patient shows symptoms as follows: have shortness of breath; have wheezing; have
 Patient shows symptoms as follows: have wheezing; have chest tightness; have distress respiratory.,asthma
 Patient shows symptoms as follows: have shortness of breath; have wheezing; have chest tightness; have symptom aggravating factors; have non-productive cough; have productive cough; have distress respiratory; have cough.,asthma
 Patient shows symptoms as follows: have shortness of breath; have symptom aggravating factors; have non-productive cough; have productive cough; have pleuritic pain.,asthma
-Patient shows symptoms as follows: have dysarthria; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have orthostasis; have dysarthria; have anorexia.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have night sweat; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have anorexia; have distress respiratory.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have night sweat; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have dysarthria; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have distress respiratory.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthopnea; have dysarthria; have anorexia.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have cachexia; have distress respiratory.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have orthopnea; have night sweat; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have orthostasis; have orthopnea; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have orthostasis; have orthopnea; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthopnea; have cachexia.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have orthostasis; have orthopnea; have night sweat.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have dysarthria; have anorexia; have distress respiratory.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have anorexia; have cachexia.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have dysarthria; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have night sweat; have dysarthria.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have dysarthria; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have orthostasis; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have orthostasis; have distress respiratory; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have night sweat; have dysarthria; have distress respiratory.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have anorexia; have distress respiratory.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have anorexia; have distress respiratory.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have orthostasis; have night sweat; have dysarthria; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
-Patient shows symptoms as follows: have mental status changes; have dysarthria; have anorexia.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have blackout.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have orthostasis; have orthopnea; have night sweat; have dysarthria; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have orthostasis; have dysarthria; have anorexia; have distress respiratory.,benign prostatic hypertrophy
@@ -302,6 +272,36 @@ Patient shows symptoms as follows: have orthostasis; have night sweat; have dist
 Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have anorexia.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have orthostasis; have orthopnea; have cachexia.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have dysarthria; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthopnea; have dysarthria; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have orthostasis; have orthopnea; have night sweat; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have cachexia.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have anorexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have dysarthria; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have night sweat; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have dysarthria; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have orthopnea; have dysarthria; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have dysarthria; have anorexia; have cachexia; have distress respiratory.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have dysarthria; have anorexia; have cachexia; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have dysarthria; have anorexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
+Patient shows symptoms as follows: have mental status changes; have orthostasis; have night sweat; have dysarthria; have cachexia; have distress respiratory; have blackout.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have mental status changes; have night sweat; have dysarthria; have anorexia; have distress respiratory.,benign prostatic hypertrophy
 Patient shows symptoms as follows: have pain abdominal; have sore to touch; have thicken; have vomiting; have ascites.,biliary calculus
 Patient shows symptoms as follows: have palpitation; have pain abdominal; have nausea; have sore to touch; have thicken; have ascites; have pain.,biliary calculus
@@ -13204,10 +13204,7 @@ Patient shows symptoms as follows: have pain abdominal; have hemodynamically sta
 Patient shows symptoms as follows: have hemodynamically stable; have tenesmus; have chill; have pain.,colitis
 Patient shows symptoms as follows: have fever; have nausea and vomiting.,colitis
 Patient shows symptoms as follows: have frail; have systolic murmur.,decubitus ulcer
-Patient shows symptoms as follows: have frail.,decubitus ulcer
-Patient shows symptoms as follows: have fever; have systolic murmur.,decubitus ulcer
 Patient shows symptoms as follows: have fever; have systolic murmur; have frail.,decubitus ulcer
-Patient shows symptoms as follows: have fever.,decubitus ulcer
 Patient shows symptoms as follows: have swelling; have rale; have non-productive cough; have clonus; have hypotension.,deep vein thrombosis
 Patient shows symptoms as follows: have shortness of breath; have swelling; have cardiomegaly; have rale; have non-productive cough; have hypotension; have pain.,deep vein thrombosis
 Patient shows symptoms as follows: have shortness of breath; have ecchymosis; have redness; have cardiomegaly; have clonus; have hypotension; have pain in lower limb; have pain.,deep vein thrombosis
@@ -18377,30 +18374,13 @@ Patient shows symptoms as follows: have swelling; have apyrexial; have erythema;
 Patient shows symptoms as follows: have fever; have erythema; have decreased translucency.,infection
 Patient shows symptoms as follows: have shortness of breath; have gravida; have pain chest; have fever.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have gravida; have pain chest; have hyperkalemia.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have gravida; have fever; have hyperkalemia.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have gravida; have fever; have bleeding of vagina.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have gravida; have hyperkalemia; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have pain chest; have fever; have hyperkalemia.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have pain chest; have fever; have bleeding of vagina.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have pain chest; have hyperkalemia; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have fever; have hyperkalemia; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have gravida; have pain chest; have fever; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have gravida; have pain chest; have hyperkalemia; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have gravida; have fever; have hyperkalemia; have bleeding of vagina.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have gravida; have pain chest; have hyperkalemia; have bleeding of vagina.,kidney disease
 Patient shows symptoms as follows: have gravida; have pain chest; have fever; have hyperkalemia; have bleeding of vagina.,kidney disease
 Patient shows symptoms as follows: have shortness of breath; have gravida; have pain chest; have fever; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have shortness of breath.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have gravida; have pain chest; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have gravida; have hyperkalemia; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have pain chest; have hyperkalemia.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have pain chest; have hyperkalemia.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have pain chest; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have fever; have hyperkalemia.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have fever; have bleeding of vagina.,kidney disease
-Patient shows symptoms as follows: have gravida; have fever.,kidney disease
-Patient shows symptoms as follows: have shortness of breath; have pain chest; have fever.,kidney disease
 Patient shows symptoms as follows: have vomiting; have mass in breast; have pain.,melanoma
 Patient shows symptoms as follows: have gravida; have vomiting; have diarrhea.,melanoma
 Patient shows symptoms as follows: have mass of body structure; have pruritus; have vomiting; have diarrhea; have mass in breast; have pain.,melanoma
@@ -19127,56 +19107,6 @@ Patient shows symptoms as follows: have redness; have urinary hesitation; have a
 Patient shows symptoms as follows: have swelling; have pain foot; have redness; have urinary hesitation; have abscess bacterial; have erythema; have pain.,osteomyelitis
 Patient shows symptoms as follows: have swelling; have urinary hesitation; have fever; have erythema; have difficulty passing urine; have prostate tender; have pain.,osteomyelitis
 Patient shows symptoms as follows: have redness; have fever; have sore to touch.,osteomyelitis
-Patient shows symptoms as follows: have sore to touch; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have sore to touch; have vomiting.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have vomiting; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have sore to touch; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have apyrexial; have sore to touch; have vomiting.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have vomiting.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have diarrhea.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have sore to touch; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have vomiting; have diarrhea.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have vomiting; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have apyrexial; have sore to touch.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have apyrexial; have vomiting.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have nausea; have vomiting.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have nausea; have diarrhea.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have nausea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have vomiting; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have apyrexial; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have apyrexial; have pain.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have apyrexial; have vomiting; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have apyrexial; have diarrhea.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have sore to touch; have vomiting; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have vomiting; have diarrhea.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have nausea; have sore to touch.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have vomiting; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have nausea; have sore to touch; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have vomiting; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have vomiting; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have nausea; have sore to touch; have vomiting; have diarrhea; have pain.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have sore to touch; have vomiting.,pancreatitis
-Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have pain.,pancreatitis
-Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
 Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have sore to touch; have vomiting; have rigor - temperature-associated observation.,pancreatitis
 Patient shows symptoms as follows: have pain abdominal; have apyrexial; have rigor - temperature-associated observation.,pancreatitis
 Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
@@ -19215,17 +19145,62 @@ Patient shows symptoms as follows: have pain abdominal; have nausea; have rigor 
 Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have vomiting.,pancreatitis
 Patient shows symptoms as follows: have pain abdominal; have apyrexial; have diarrhea.,pancreatitis
 Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have sore to touch; have vomiting; have diarrhea; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have apyrexial; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have apyrexial; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have vomiting; have diarrhea; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have nausea; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have sore to touch; have vomiting; have diarrhea; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have apyrexial; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have nausea; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have pain abdominal; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea; have pain.,pancreatitis
+Patient shows symptoms as follows: have apyrexial; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have apyrexial; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have nausea; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have diarrhea.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have sore to touch; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have nausea; have diarrhea; have rigor - temperature-associated observation; have pain.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have sore to touch; have vomiting; have diarrhea; have rigor - temperature-associated observation.,pancreatitis
+Patient shows symptoms as follows: have stool color yellow; have pain abdominal; have apyrexial; have sore to touch; have vomiting; have rigor - temperature-associated observation; have pain.,pancreatitis
 Patient shows symptoms as follows: have stool color yellow; have nausea; have sore to touch; have vomiting; have rigor - temperature-associated observation.,pancreatitis
-Patient shows symptoms as follows: have fatigue; have cushingoid facies; have haemorrhage; have colic abdominal; have fatigability.,pancytopenia
-Patient shows symptoms as follows: have colic abdominal.,pancytopenia
-Patient shows symptoms as follows: have cushingoid facies; have cushingoid habitus; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have haemorrhage; have colic abdominal; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have hypoproteinemia; have haemorrhage; have cushingoid habitus.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have cushingoid facies; have hypoproteinemia; have cushingoid habitus; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have hypoproteinemia; have cushingoid habitus; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have cushingoid facies; have haemorrhage; have colic abdominal.,pancytopenia
-Patient shows symptoms as follows: have fatigue; have cushingoid facies.,pancytopenia
-Patient shows symptoms as follows: have haemorrhage; have cushingoid habitus.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have haemorrhage; have colic abdominal; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have cushingoid facies; have hypoproteinemia; have cushingoid habitus; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have hypoproteinemia; have haemorrhage; have cushingoid habitus; have fatigability.,pancytopenia
@@ -19233,27 +19208,32 @@ Patient shows symptoms as follows: have cushingoid facies; have haemorrhage; hav
 Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have colic abdominal; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have stool color yellow; have haemorrhage; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have hypoproteinemia; have haemorrhage; have colic abdominal.,pancytopenia
-Patient shows symptoms as follows: have stool color yellow; have cushingoid facies.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have cushingoid facies; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have cushingoid facies; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have cushingoid facies; have hypoproteinemia; have haemorrhage; have cushingoid habitus; have fatigability.,pancytopenia
-Patient shows symptoms as follows: have stool color yellow; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have hypoproteinemia; have cushingoid habitus; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have cushingoid facies; have hypoproteinemia; have colic abdominal; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have cushingoid habitus; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have haemorrhage; have cushingoid habitus; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have cushingoid facies; have hypoproteinemia; have haemorrhage; have cushingoid habitus; have colic abdominal; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have haemorrhage; have cushingoid habitus; have colic abdominal; have fatigability.,pancytopenia
-Patient shows symptoms as follows: have fatigue; have hypoproteinemia.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have cushingoid facies; have hypoproteinemia; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have cushingoid facies; have hypoproteinemia; have haemorrhage; have fatigability.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have hypoproteinemia; have haemorrhage.,pancytopenia
 Patient shows symptoms as follows: have cushingoid facies; have hypoproteinemia; have haemorrhage; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have stool color yellow; have hypoproteinemia; have haemorrhage; have colic abdominal; have fatigability.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have hypoproteinemia; have haemorrhage.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have hypoproteinemia; have cushingoid habitus.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have haemorrhage; have cushingoid habitus.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have haemorrhage; have colic abdominal.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have haemorrhage; have fatigability.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have cushingoid habitus; have colic abdominal.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have cushingoid facies; have cushingoid habitus; have fatigability.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have hypoproteinemia; have haemorrhage; have cushingoid habitus.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have hypoproteinemia; have haemorrhage; have colic abdominal.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have hypoproteinemia; have haemorrhage; have fatigability.,pancytopenia
+Patient shows symptoms as follows: have stool color yellow; have hypoproteinemia; have cushingoid habitus; have colic abdominal.,pancytopenia
 Patient shows symptoms as follows: have fatigue; have stool color yellow; have cushingoid facies; have hypoproteinemia; have cushingoid habitus; have fatigability.,pancytopenia
-Patient shows symptoms as follows: have cushingoid facies; have fatigability.,pancytopenia
-Patient shows symptoms as follows: have hypoproteinemia; have cushingoid habitus; have fatigability.,pancytopenia
-Patient shows symptoms as follows: have stool color yellow; have cushingoid habitus.,pancytopenia
 Patient shows symptoms as follows: have palpitation; have rale; have sweat; have orthopnea; have dyspnea on exertion.,paroxysmal dyspnea
 Patient shows symptoms as follows: have shortness of breath; have palpitation; have pain chest; have rale; have sweat; have dyspnea on exertion; have weight gain.,paroxysmal dyspnea
 Patient shows symptoms as follows: have shortness of breath; have dyspnea; have jugular venous distention; have pain chest; have orthopnea; have dyspnea on exertion; have cough; have weight gain.,paroxysmal dyspnea
@@ -19883,14 +19863,12 @@ Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia
 Patient shows symptoms as follows: have cardiovascular finding; have haemoptysis; have soft tissue swelling.,pneumothorax
 Patient shows symptoms as follows: have prostatism; have agitation; have dyspnea; have cardiovascular event; have soft tissue swelling; have cough.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have prostatism; have cardiovascular event; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have prostatism; have cough.,pneumothorax
 Patient shows symptoms as follows: have hypercapnia; have prostatism; have cardiovascular event; have haemoptysis; have cough.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have haemoptysis.,pneumothorax
 Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have dyspnea; have cardiovascular event; have soft tissue swelling.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have agitation; have cardiovascular event; have haemoptysis.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have dyspnea; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have agitation; have dyspnea.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have agitation; have cardiovascular event; have haemoptysis; have cough.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have dyspnea; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia.,pneumothorax
@@ -19916,34 +19894,36 @@ Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia
 Patient shows symptoms as follows: have hypercapnia; have prostatism; have cardiovascular event; have haemoptysis; have soft tissue swelling.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have prostatism; have haemoptysis.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have agitation; have cardiovascular event; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have agitation; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have dyspnea; have cardiovascular event; have haemoptysis.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have dyspnea; have cardiovascular event; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have dyspnea; have haemoptysis; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have dyspnea; have haemoptysis; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have dyspnea; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have cardiovascular event; have haemoptysis; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have cardiovascular event; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have dyspnea; have cardiovascular event; have haemoptysis.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have dyspnea; have cardiovascular event; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have dyspnea; have haemoptysis; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have dyspnea; have haemoptysis; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have dyspnea; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have cardiovascular event; have haemoptysis; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have cardiovascular event; have haemoptysis; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have agitation; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have dyspnea; have cardiovascular event; have haemoptysis; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have dyspnea; have cardiovascular event; have haemoptysis; have cough.,pneumothorax
+Patient shows symptoms as follows: have cardiovascular finding; have cardiovascular event; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have dyspnea; have cardiovascular event.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have dyspnea; have haemoptysis.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have dyspnea; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have cardiovascular event; have haemoptysis.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have cardiovascular event; have soft tissue swelling.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have cardiovascular event; have cough.,pneumothorax
+Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have haemoptysis; have soft tissue swelling.,pneumothorax
 Patient shows symptoms as follows: have prostatism.,pneumothorax
 Patient shows symptoms as follows: have hypercapnia; have prostatism; have dyspnea; have soft tissue swelling; have cough.,pneumothorax
 Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have agitation; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have dyspnea; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have agitation; have dyspnea; have cardiovascular event; have haemoptysis; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have agitation; have dyspnea.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have agitation; have cardiovascular event; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have prostatism; have dyspnea; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have agitation; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have prostatism; have agitation; have dyspnea; have cardiovascular event; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have prostatism; have cardiovascular event; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have prostatism; have dyspnea; have cardiovascular event; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have cardiovascular event; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have cardiovascular event; have haemoptysis; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have agitation; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have prostatism; have agitation; have dyspnea; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have prostatism; have cardiovascular event; have haemoptysis; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have soft tissue swelling; have cough.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have agitation.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have prostatism; have dyspnea; have cardiovascular event; have cough.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have prostatism; have dyspnea; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have agitation; have soft tissue swelling.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have prostatism; have cardiovascular event.,pneumothorax
-Patient shows symptoms as follows: have hypercapnia; have prostatism; have haemoptysis.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have hypercapnia; have prostatism; have agitation; have dyspnea; have cardiovascular event; have haemoptysis; have cough.,pneumothorax
-Patient shows symptoms as follows: have cardiovascular finding; have agitation; have dyspnea; have cardiovascular event; have soft tissue swelling.,pneumothorax
 Patient shows symptoms as follows: have fever; have hematuria; have nausea; have myalgia; have pain.,pyelonephritis
 Patient shows symptoms as follows: have nausea; have urgency of micturition; have chill; have myalgia.,pyelonephritis
 Patient shows symptoms as follows: have pain abdominal; have hematuria; have nausea; have urgency of micturition; have myalgia.,pyelonephritis
