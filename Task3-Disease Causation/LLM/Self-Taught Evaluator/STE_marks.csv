@@ -1,0 +1,735 @@
+Disease,response_cause,missing_points
+diabetes,"The main causes of diabetes can be categorized into two main types: Type 1 diabetes and Type 2 diabetes.
+
+**Type 1 Diabetes:**
+
+Type 1 diabetes is an autoimmune disease in which the body's immune system attacks and destroys the cells in the pancreas that produce insulin, a hormone that regulates blood sugar levels. The exact causes of Type 1 diabetes are not fully understood, but the following factors may contribute to its development:
+
+1. **Genetic predisposition**: A person's genetic makeup may increase their risk of developing Type 1 diabetes.
+2. **Environmental triggers**: Certain viruses, toxins, or other environmental factors may trigger the immune system to attack the pancreas.
+3. **Hormonal imbalance**: An imbalance of hormones, such as insulin and glucagon, may contribute to the development of Type 1 diabetes.
+
+**Type 2 Diabetes:**
+
+Type 2 diabetes is a metabolic disorder characterized by insulin resistance, which means that the body's cells become less responsive to insulin. The main causes of Type 2 diabetes include:
+
+1. **Insulin resistance**: When the body produces insulin, but the cells are unable to use it effectively.
+2. **Pancreatic beta-cell dysfunction**: The pancreas produces less insulin or the insulin that is produced is not as effective.
+3. **Weight gain and obesity**: Excess weight, particularly around the abdominal area, can lead to insulin resistance.
+4. **Physical inactivity**: A sedentary lifestyle can","Fails to include other triggers like viruses, toxins, or environmental triggers."
+pneumonia,"The main causes of pneumonia can be divided into two categories: infectious and non-infectious causes.
+
+**Infectious Causes:**
+
+1. **Bacteria**: The most common bacterial causes of pneumonia are:
+	* Streptococcus pneumoniae (pneumococcus)
+	* Haemophilus influenzae
+	* Klebsiella pneumoniae
+	* Staphylococcus aureus
+	* Pseudomonas aeruginosa
+2. **Viruses**: Influenza virus, adenovirus, respiratory syncytial virus (RSV), and coronavirus are some of the main viral causes of pneumonia.
+3. **Fungi**: Pneumonia can be caused by fungal infections such as:
+	* Pneumocystis jirovecii (also known as Pneumocystis carinii)
+	* Cryptococcus neoformans
+	* Aspergillus spp.
+4. **Mycoplasma**: Mycoplasma pneumoniae is a common cause of pneumonia, especially in children and young adults.
+
+**Non-Infectious Causes:**
+
+1. **Inhalation of Substances**: Inhaling chemicals, dust, or other particles can cause pneumonia.
+2. **Radiation Therapy**: Pneumonia can be a complication of radiation therapy for cancer treatment.
+3. **Systemic Diseases**: Certain systemic diseases, such as:
+	* Connective tissue diseases (e.g., rheumatoid arthritis,","Fails to include other bacterial and non-infectious causes like Streptococcus pneumoniae, Klebsiella pneumoniae, or infections."
+asthma,"Asthma is a complex condition with multiple causes and triggers. The main causes of asthma can be categorized into two groups: environmental and genetic.
+
+**Environmental Causes:**
+
+1. **Air pollution**: Exposure to air pollutants, such as particulate matter, ozone, and nitrogen dioxide, can trigger asthma attacks.
+2. **Allergens**: Allergens like dust mites, mold, pet dander, and pollen can cause allergic reactions, which can lead to asthma symptoms.
+3. **Respiratory infections**: Respiratory infections like the common cold and flu can trigger asthma attacks.
+4. **Socioeconomic factors**: Living in poverty, smoking in the household, and exposure to secondhand smoke can increase the risk of developing asthma.
+5. **Occupational exposures**: Exposure to certain chemicals, such as chemical fumes, dust, and cleaning products, can trigger asthma.
+
+**Genetic Causes:**
+
+1. **Familial history**: People with a family history of asthma are more likely to develop the condition.
+2. **Genetic mutations**: Mutations in genes that regulate inflammation and airway function, such as the ADAM33 gene, can contribute to asthma susceptibility.
+
+**Other Contributing Factors:**
+
+1. **Hormonal changes**: Hormonal fluctuations during pregnancy or menstruation can trigger asthma symptoms in some women.
+2. **Obesity**: Being overweight or obese can increase the risk of developing asthma.
+3. **Nutritional factors**: A diet high in","Omits other causes like dust mites, mold, pet dander, and pollen."
+gout,"Gout is a type of arthritis that is caused by the build-up of uric acid crystals in the joints. The main causes of gout are:
+
+1. **High Uric Acid Levels**: Elevated levels of uric acid in the blood can be due to factors such as genetic predisposition, diet, obesity, and certain medications.
+2. **Family History**: People with a family history of gout are more likely to develop the condition.
+3. **Obesity**: Excess body weight can increase the risk of gout due to higher levels of uric acid production.
+4. **Diet**: Consuming foods high in purines, such as organ meats, seafood, and sugary drinks, can increase uric acid levels.
+5. **Dehydration**: Not drinking enough water can lead to higher levels of uric acid in the body.
+6. **Medications**: Certain medications, such as diuretics and certain types of chemotherapy, can increase the risk of gout.
+7. **Kidney Function**: Problems with kidney function can cause the body to retain more uric acid, leading to gout.
+8. **Age**: Gout is more common in people over the age of 30.
+9. **Sex**: Men are more likely to develop gout than women, although the risk for women increases after menopause.
+10. **Metabolic Syndrome**: Gout is often associated with metabolic syndrome, a cluster of conditions that increase the risk of developing type","Omits genetic predisposition, diet, or medications."
+malaria,"Malaria is a serious and sometimes life-threatening disease caused by a parasite that is transmitted through the bite of an infected female Anopheles mosquito. The main causes of malaria include:
+
+1. **Anopheles Mosquito Bites**: The primary cause of malaria is the bite of an infected Anopheles mosquito. These mosquitoes feed on human blood and can transmit the parasite to humans.
+2. **Presence of the Malaria Parasite**: The parasite that causes malaria is called Plasmodium. There are five species of Plasmodium that can infect humans, with Plasmodium falciparum being the most deadly.
+3. **Poverty and Lack of Access to Healthcare**: Malaria is more common in areas with poor healthcare infrastructure, lack of access to clean water and sanitation, and inadequate housing.
+4. **Climate and Geography**: Malaria is prevalent in areas with high temperatures and humidity, near bodies of water where Anopheles mosquitoes breed.
+5. **Travel and Migration**: Traveling to areas where malaria is common can increase the risk of infection, especially for people who have not built up immunity to the disease.
+6. **Poor Vector Control Measures**: The lack of effective vector control measures, such as insecticide-treated bed nets and indoor residual spraying, can contribute to the spread of malaria.
+7. **Rural Living**: People living in rural areas, especially in areas with poor infrastructure, are at higher risk of contracting malaria.
+8. **Genetic P","Fails to mention other causes like malaria, poor sanitation, or lack of sanitation."
+migraine,"The main causes of migraines are complex and varied. While the exact trigger can be difficult to pinpoint, some common factors that contribute to migraine development and exacerbation include:
+
+1. **Genetics**: Research suggests that migraines tend to run in families, indicating a strong genetic component.
+2. **Neurotransmitters**: Problems with neurotransmitters, such as serotonin and dopamine, can cause blood vessels to dilate and lead to migraine pain.
+3. **Hormonal changes**: Fluctuations in hormone levels, particularly during menstruation, pregnancy, or menopause, can trigger migraines in some individuals.
+4. **Stress**: Physical or emotional stress can lead to muscle tension, dryness of the blood vessels, and the release of pain-producing chemicals.
+5. **Sleep disturbances**: Irregular sleep patterns, including insomnia or excessive sleep, can trigger migraines.
+6. **Food and drinks**: Common food triggers include:
+	* Aged cheeses (e.g., blue cheese, cheddar)
+	* Citrus fruits (e.g., oranges, lemons)
+	* Fermented foods (e.g., wine, beer, sauerkraut)
+	* Processed meats (e.g., hot dogs, bacon)
+	* Monosodium glutamate (MSG)
+7. **Environmental factors**: Exposure to:
+	* Bright lights (laser displays, LED lights)
+	* Strong smells (perfumes, chemical odors)
+	* Weather changes (temperature,","Fails to include other triggers like serotonin, dopamine, or stress."
+appendicitis,"Appendicitis is a medical condition characterized by the inflammation of the appendix, a small, tube-like structure attached to the large intestine. The exact cause of appendicitis is often uncertain, but several factors are thought to contribute to its development. The main causes of appendicitis include:
+
+1. **Bacterial overgrowth**: An overgrowth of bacteria in the appendix can lead to inflammation and infection, which can cause appendicitis. The bacteria can enter the appendix from the gastrointestinal tract or from other parts of the abdomen.
+
+2. **Luminal obstruction**: A blockage in the appendiceal lumen, the narrow tube that carries waste from the appendix, can lead to trapped bacteria and inflammation. This can be caused by feces, blood, or other materials that enter the appendix and become trapped.
+
+3. **Protean motions and twisting**: A sudden twisting or torsion of the appendix can cut off its blood supply and lead to tissue death, which can cause an infection and inflammation.
+
+4. **Iatrogenic causes**: Certain medical conditions, such as the use of anticoagulants or anti-inflammatory medications, can increase the risk of appendicitis.
+
+5. **Fecalith**: A fecalith is a small, congealed mass of fecal matter that can enter the appendix and cause an obstruction. This can lead to bacterial overgrowth, inflammation, and infection.
+
+6. **Intestinal worm infestation**: In some cases, intestinal","Omits other causes like fecal matter, blood, or feces."
+diarrhea,"The main causes of diarrhea can be categorized into infectious, non-infectious, and functional causes. Here are some of the most common causes:
+
+**Infectious Causes:**
+
+1. **Bacterial infections**: such as salmonella, E. coli, and campylobacter, which can be contracted through contaminated food, water, or direct contact.
+2. **Viruses**: such as norovirus, rotavirus, and norovirus, which can spread through contact with an infected person, contaminated food, or water.
+3. **Parasitic infections**: such as giardiasis, cryptosporidiosis, and amebiasis, which can be contracted through contaminated water or food.
+4. **Food poisoning**: caused by eating spoiled, undercooked, or contaminated food.
+
+**Non-Infectious Causes:**
+
+1. **Food allergies or intolerances**: such as lactose intolerance, gluten intolerance, or food allergies to certain nuts or spices.
+2. **Dietary habits**: such as consuming too much fiber, sugar, or spicy foods.
+3. **Medications**: such as antibiotics, laxatives, or chemotherapy.
+4. **Underlying medical conditions**: such as irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), or thyroid disorders.
+5. **Hormonal changes**: such as those experienced during pregnancy, menopause, or thyroid disorders.
+6. **Gastrointestinal (GI) disorders**: such as c","Fails to include other causes like salmonella, E. coli, and campylobacter."
+endometriosis,"Endometriosis is a complex and multifactorial disorder, and the exact causes are not yet fully understood. However, research has identified several key factors that may contribute to the development of endometriosis:
+
+1. **Genetic predisposition**: Women with a family history of endometriosis are more likely to develop the condition. Studies have identified several genes that may increase the risk of endometriosis.
+
+2. **Incomplete menstrual flow**: During a normal menstrual cycle, small amounts of menstrual tissue are shed and eliminated from the body. In women with endometriosis, this tissue may not be fully shed, leading to the growth of endometrial cells outside the uterus.
+
+3. **Hormonal imbalance**: The hormonal fluctuations that occur during the menstrual cycle may contribute to the growth and survival of endometrial cells outside the uterus. Estrogen, in particular, may play a role in promoting the growth of endometrial tissue.
+
+4. **Coelomic metaplasia**: This theory proposes that endometrial cells can form from cells in the peritoneal cavity, which line the pelvis. This process may be triggered by hormonal factors or other environmental influences.
+
+5. **Immune system dysfunction**: Some research suggests that an imbalance in the immune system may contribute to the development of endometriosis. Women with endometriosis may have altered levels of certain immune cells or cytokines.
+
+6. **Environmental factors**: Various environmental factors, such",Does not include genetic predisposition or genetic predisposition.
+epilepsy,"Epilepsy is a complex neurological disorder that has multiple potential causes. The main causes of epilepsy can be broadly categorized into two groups: genetic (inherited) and acquired causes.
+
+**Genetic or Inherited Causes:**
+
+1. **Genetic mutations:** Certain genetic mutations can predispose individuals to develop epilepsy. These mutations can affect various brain cells, disrupting normal brain function.
+2. **Family history:** Individuals with a family history of epilepsy are more likely to develop the condition themselves.
+3. **Chromosomal disorders:** Certain chromosomal disorders, such as Down syndrome, can increase the risk of epilepsy.
+
+**Acquired Causes:**
+
+1. **Head trauma:** A severe head injury, such as a concussion or skull fracture, can cause epilepsy.
+2. **Infections:** Infections, such as meningitis, encephalitis, or brain abscesses, can cause inflammation and scarring in the brain, leading to epilepsy.
+3. **Neurodevelopmental disorders:** Conditions such as autism spectrum disorder, cerebral palsy, and mental retardation can increase the risk of epilepsy.
+4. **Stroke or cerebral vasculitis:** Vascular diseases, such as stroke or cerebral vasculitis, can damage brain tissue and lead to epilepsy.
+5. **Brain tumors:** Tumors, such as glioblastomas or meningiomas, can cause epilepsy by damaging surrounding brain tissue.
+6. **Abnormal brain development:** Abnormal brain development, such as per","Fails to include genetic predisposition, inherited causes, or chromosomal disorders."
+fever,"Fever, also known as pyrexia, is a common symptom that occurs when the body's internal temperature rises above its normal range. The main causes of fever can be categorized into various groups:
+
+1. **Infectious diseases**: Viral and bacterial infections are the most common causes of fever. These infections can be respiratory (such as the flu, pneumonia), gastrointestinal (such as food poisoning, gastroenteritis), or skin-related (such as bacterial cellulitis).
+
+2. **Inflammation**: Non-infectious causes of fever include inflammatory conditions, such as rheumatoid arthritis, lupus, or appendicitis. When the body detects inflammation, it releases chemicals that trigger a fever response.
+
+3. **Autoimmune disorders**: Autoimmune diseases, such as post-streptococcal glomerulonephritis or type 1 diabetes, can lead to fever due to the body's immune response against its own tissues.
+
+4. **Cancer**: Cancer cells can trigger an immune response that results in fever.
+
+5. **Medications and vaccinations**: Certain medications, such as antibiotics, anesthetics, or steroids, and vaccinations can cause a fever as a side effect.
+
+6. **Metabolic disorders**: Genetic disorders, such as lysosomal storage diseases or glycogen storage diseases, can lead to fever.
+
+7. **Central nervous system disorders**: Infections of the brain or spinal cord, such as meningitis or encephalitis, can cause fever.","Fails to include other causes like inflammatory conditions, food poisoning, or skin-related."
+fibromyalgia,"The exact causes of fibromyalgia are still not fully understood, but research has identified several potential factors that may contribute to its development. Some of the main causes and contributing factors of fibromyalgia include:
+
+1. **Genetics**: People with a family history of fibromyalgia are more likely to develop the condition. research suggests that genetic mutations or variations can affect pain perception and other bodily functions.
+
+2. **Brain chemistry**: Fibromyalgia is associated with changes in the levels of neurotransmitters, such as serotonin and dopamine, which regulate mood and pain perception. Abnormal brain chemistry can lead to an increased sensitivity to pain.
+
+3. **Trauma**: Physical trauma, such as a car accident or a fall, can trigger fibromyalgia. Psychological trauma, such as abuse or stress, can also contribute to the development of fibromyalgia.
+
+4. **Infections**: Certain infections, like Lyme disease or viral infections, can trigger fibromyalgia in some people.
+
+5. **Autoimmune disorders**: Some autoimmune disorders, such as rheumatoid arthritis, lupus, and thyroid disease, may increase the risk of developing fibromyalgia.
+
+6. **Sleep disturbances**: Poor sleep quality, insomnia, or sleep apnea can contribute to the development of fibromyalgia.
+
+7. **Hormonal changes**: Hormonal fluctuations, such as those experienced during menopause or pregnancy, can lead to fibromyalgia symptoms.
+
+8. **Nut","Fails to mention genetic mutations, serotonin, and dopamine levels."
+gallstones,"The main causes of gallstones can be broadly categorized into two types: cholesterol stones and pigment stones.
+
+1. **Cholesterol Stones:**
+   - **High levels of cholesterol in the bile**: When there is excess cholesterol in the bile, it can crystallize and form stones.
+   - **Low levels of bile salts**: Bile salts help to dissolve cholesterol, and when they are in short supply, the cholesterol can crystallize and form stones.
+   - **Genetic predisposition**: Certain genetic conditions can increase the risk of developing gallstones.
+   - **Diabetes**: People with diabetes are more likely to develop gallstones, possibly due to insulin resistance and changes in lipid metabolism.
+   - **Obesity**: Being overweight or obese can increase the risk of developing gallstones, particularly in women.
+   - **Diet**: A diet high in fat and cholesterol can increase the risk of developing gallstones.
+
+2. **Pigment Stones:**
+   - **Infection or inflammation**: Bacterial infections or inflammation in the gallbladder can increase the production of pigment.
+   - **Hemolysis**: Breaking down of red blood cells can release bilirubin, which can crystallize and form pigment stones.
+   - **Liver disease**: Certain liver conditions, such as cirrhosis and primary sclerosing cholangitis, can increase the risk of developing pigment stones.
+   - **Genetic disorders**: Certain genetic disorders, such as Gilbert's syndrome, can affect the production","Omits other causes like bile salts, liver disease, or diabetes."
+GERD,"The main causes of Gastroesophageal Reflux Disease (GERD) include:
+
+1. **Weakened Lower Esophageal Sphincter (LES):** The LES is a muscle that separates the esophagus and stomach. A weakened LES allows stomach acid to flow back up into the esophagus.
+
+2. **Sloping of the Lower End of the Esophagus:** An abnormal angulation of the esophagus can make it easier for stomach acid to flow back up into the esophagus.
+
+3. **Overeating:** Consuming large meals can put pressure on the LES, causing it to relax and allow stomach acid to flow back up into the esophagus.
+
+4. **Obesity:** Being overweight can increase the pressure on the abdominal cavity, which can cause the LES to relax, allowing acid reflux.
+
+5. **Scleroderma:** Sclerosis or scarring in the esophagus can cause chronic constriction, which may cause stomach acid to flow back up into the esophagus.
+
+6. **Hiatal Hernia:** A hiatal hernia is when part of the stomach bulges up through the diaphragm into the chest cavity. This can put pressure on the LES.
+
+7. **Alcohol Consumption:** Drinking large quantities of alcohol can relax the LES and cause stomach acid to flow back up into the esophagus.
+
+8. **Smoking:** Smoking can relax the LES and also cause other problems in the","Omits other causes like hiatal hernia, chronic constriction, or smoking."
+heart attack,"Heart attack, also known as myocardial infarction, occurs when the blood flow to the heart is disrupted, causing damage to the heart muscle. The main causes of heart attack can be divided into two categories: primary and secondary.
+
+**Primary Causes:**
+
+1. **Atherosclerosis**: The buildup of plaque in the coronary arteries, which supply blood to the heart. This can lead to a blockage of the artery, reducing blood flow to the heart muscle.
+2. **Blood Clots**: A blood clot can form in the coronary arteries, blocking blood flow to the heart muscle.
+3. **Triglyceride-Rich Lipoproteins (TGRLs)**: High levels of TGRLs, also known as ""bad"" cholesterol, can increase the risk of heart attack by promoting the formation of atherosclerotic plaques.
+
+**Secondary Causes:**
+
+1. **High Blood Pressure**: Uncontrolled high blood pressure can damage the inner lining of the blood vessels, leading to the formation of atherosclerotic plaques and increasing the risk of heart attack.
+2. **Smoking**: Smoking damages the inner lining of the blood vessels and increases the risk of atherosclerosis and blood clots.
+3. **Diabetes**: People with diabetes are at a higher risk of developing atherosclerosis and heart disease.
+4. **Family History**: A family history of heart disease can increase the risk of heart attack.
+5. **Stress**: Chronic stress can","Omits other causes like myocardial infarction, smoking, or myocardial infarction."
+hemorrhoids,"The main causes of hemorrhoids are:
+
+1. **Constipation**: Straining during bowel movements can increase pressure on the veins in the rectum, leading to hemorrhoid formation. Constipation is often caused by a low-fiber diet, inadequate fluid intake, or lack of physical activity.
+
+2. **Diarrhea**: Prolonged diarrhea can cause frequent and intense straining during bowel movements, leading to hemorrhoids.
+
+3. **Sitting for long periods**: Prolonged sitting, such as during long car or airplane trips, can put pressure on the veins in the rectum, leading to hemorrhoid formation.
+
+4. **Obesity**: Excess weight can cause increased pressure on the veins in the rectum, leading to hemorrhoids.
+
+5. **Genetic predisposition**: Some people may be born with a genetic predisposition to develop hemorrhoids.
+
+6. **Hormonal changes**: Hormonal changes during pregnancy or menopause can cause increased pressure on the veins in the rectum, leading to hemorrhoids.
+
+7. **Aging**: As we age, the veins in the rectum can become weaker, making them more susceptible to dilation and hemorrhoid formation.
+
+8. **Lack of physical activity**: A sedentary lifestyle can contribute to constipation, which can lead to hemorrhoids.
+
+9. **High blood pressure**: High blood pressure can increase the pressure on the veins in the rectum, leading to hemorrhoids.
+
+10. **Other medical conditions","Omits other causes like low-fiber diet, inadequate fluid intake, or sedentary lifestyles."
+hepatitis A,"The main causes of hepatitis A are:
+
+1. **Contaminated food and water**: Hepatitis A virus (HAV) can be found in the feces of infected individuals and can contaminate food and water if proper hygiene practices are not followed. Commonly infected foods include raw shellfish, raw or undercooked meat, and unwashed fruits and vegetables.
+
+2. **Close personal contact**: HAV can be spread through close personal contact with an infected person, such as through touching or shaking hands. This is particularly common in households, daycare centers, or places where people are in close proximity.
+
+3. **Fecal-oral transmission**: This occurs when the virus is spread through the feces of an infected person coming into contact with someone else's mouth. This can happen through activities like:
+
+- Not washing hands after using the bathroom
+- Not washing hands before preparing food
+- Swimming in contaminated water
+- Consuming contaminated food and drinks
+
+4. **Travelling to high-risk areas**: Hepatitis A is common in certain regions of the world, including Africa, Asia, and Latin America. Travelers to these areas should take precautions to prevent infection, such as receiving the hepatitis A vaccine and practicing good hygiene.
+
+5. **Injection drug use**: Sharing needles or other equipment to inject drugs can spread hepatitis A and other blood-borne viruses.
+
+6. **Poor hygiene practices**: Failure to practice good hygiene, such as washing hands regularly, can increase the risk of infection.","Omits other causes like swimming, contaminated water, or contaminated food."
+hepatitis B,"Hepatitis B is a liver infection caused by the hepatitis B virus (HBV). The main causes of hepatitis B can be broadly categorized into the following:
+
+1. **Transmission through bodily fluids**: Hepatitis B is primarily spread through:
+	* Vertical transmission (mother-to-child) during birth or shortly after birth.
+	* Horizontal transmission (person-to-person) through:
+		- Unprotected sex with an infected partner.
+		- Sharing of needles or syringes.
+		- Blood transfusions or transplants using infected blood.
+		- Tattooing or piercing using non-sterile equipment.
+2. **Viral load**: A person with a high viral load of HBV is more likely to transmit the virus to others.
+3. **Medical procedures**: People who have undergone medical procedures that involve exposure to infected blood, such as dialysis or handling of infected tissues, may be at risk.
+4. **Travel to high-risk areas**: Visiting countries with high prevalence of HBV, such as Africa, Asia, and parts of Eastern Europe, increases the risk of transmission.
+5. **Family or household contact**: If someone in the household has HBV, others living with them are at higher risk of transmission.
+6. **Shared personal care items**: Sharing personal-care items, such as razors, toothbrushes, or nail clippers, with someone who has HBV increases the risk of transmission.
+
+It's essential to note that there is also a vaccine","Fails to include other causes like dialysis, tattooing, or sexual transmission."
+hepatitis C,"The main causes of hepatitis C include:
+
+1. **Transmission through blood contact**: Hepatitis C is primarily spread through contact with the blood of an infected person. This can occur through:
+   - Sharing needles or syringes for injecting drugs.
+   - Receiving unsterilized tattoos or piercings.
+   - Sharing personal care items like razors or toothbrushes.
+   - Accidental needlesticks in healthcare settings.
+   - Recipient of unscreened blood transfusions (rare in developed countries due to screening).
+
+2. **Mother-to-child transmission**: Hepatitis C can be transmitted to a child from an infected mother during pregnancy or childbirth.
+
+3. **Contaminated medical equipment**: Using contaminated medical equipment, such as tattooing needles, may transmit hepatitis C to an individual.
+
+4. **Infected organs for transplantation**: If the donor had hepatitis C, the recipient may contract hepatitis C after receiving an infected organ.
+
+5. **Birth in a hepatitis C-positive mother**: Approximately 5-6% of children born to mothers with hepatitis C become infected with the virus.
+
+6. **Unprotected sex**: Hepatitis C is more commonly a blood-borne disease. However, the evidence for catching the disease through sex (specifically unprotected vaginal sex) is still being researched but appears to be lesser, in rare cases, it can be possible.
+
+It's essential to note that if you're a blood donor or involved in any activity that involves blood-to-blood contact,","Fails to mention vaginal sex, contaminated medical equipment, or sexual transmission."
+hernia,"There are several main causes of hernia, and they can be broadly categorized into two types: primary (congenital) and secondary (acquired) hernias. Here are some of the main causes:
+
+**Primary (Congenital) Hernias:**
+
+1. **Genetic predisposition**: Family history and genetic mutations can increase the risk of developing a hernia.
+2. **Weakened abdominal muscles**: Weak abdominal muscles or connective tissue, often seen in people with muscular dystrophy or other muscle disorders.
+3. **Congenital defects**: Hernias can occur in the groin (inguinal hernia) or belly button (umbilical hernia) area due to weak muscle areas present at birth.
+
+**Secondary (Acquired) Hernias:**
+
+1. **Obesity**: Excess weight puts additional pressure on the abdominal wall muscles, increasing the risk of hernia.
+2. **Physical strain or injury**: Trauma, heavy lifting, or other strenuous activities can cause a hernia.
+3. **Weak or damaged muscle tissue**: Poor diet, smoking, or certain medical conditions (e.g., celiac disease, Crohn's disease) can weaken muscle tissue.
+4. **Hypertension and obesity**: Both hypertension and obesity increase intra-abdominal pressure, which can lead to hernias.
+5. **Recurring heavy lifting**: Activities that involve lifting heavy objects repeatedly can lead to muscle strain and increased pressure on the muscle wall, resulting","Omits genetic predisposition, muscular dystrophy, or muscular dystrophy."
+HIV,"The main cause of HIV (Human Immunodeficiency Virus) is the transmission of the virus from one person to another through specific bodily fluids. This typically occurs through:
+
+1. **Unprotected sex**: Engaging in sexual intercourse with someone who has HIV, especially if proper condoms or other barriers were not used. This is the most common mode of transmission.
+2. **Sharing needles or syringes**: Reusing or sharing injecting equipment with someone who has HIV can lead to transmission through the bloodstream.
+3. **Mother-to-child transmission**: HIV can be passed from an HIV-positive mother to her child during pregnancy, childbirth, or breastfeeding if the mother is not on antiretroviral therapy.
+4. **Blood transfusions**: Receiving blood or blood products from an HIV-positive donor can lead to transmission.
+5. **Transplantation**: Receiving an organ transplant from an HIV-positive donor can also result in HIV transmission.
+
+Additionally, there are other less common ways of transmission, such as:
+
+- **Vertical transmission**: HIV can be transmitted from a mother to her child through pregnancy, childbirth, or breastfeeding if the mother is not on antiretroviral therapy.
+- **Occupational exposure**: Healthcare workers who are exposed to HIV-infected bodily fluids through needlesticks, mucous membrane exposures, or skin exposures may be at risk of transmission.
+- **Tattooing or body piercing**: Using unsterilized equipment or sharing equipment can lead to transmission.
+
+It is essential to","Omits other modes like needlesticks, mucous membrane exposures, or sexual intercourses."
+hives,"Hives, also known as urticaria, are itchy, raised welts on the skin that can be caused by a variety of factors. The main causes of hives can be broadly categorized into several groups:
+
+1. **Allergic reactions**: Allergies to food, insect bites or stings, medications, latex, or environmental allergens can cause hives. Common allergens include:
+	* Food: shellfish, nuts, dairy, eggs, and soy
+	* Insect bites or stings: from wasps, bees, or mosquitos
+	* Medications: antibiotics, painkillers, or sedatives
+	* Latex: from medical equipment or condoms
+	* Environmental allergens: pollen, dust mites, or mold
+2. **Infections**: Viral, bacterial, or parasitic infections can cause hives. Examples include:
+	* Mononucleosis (mono)
+	* Herpes infections
+	* Rosacea
+	* Scabies
+	* Lice infestation
+3. **Autoimmune disorders**: Conditions such as lupus, rheumatoid arthritis, or Hashimoto's thyroiditis can lead to hives.
+4. **Insect bites or stings**: While not always an allergic reaction, some people may experience hives as a reaction to insect bites or stings.
+5. **Physical factors**:
+	* Extreme temperatures: exposure to cold or hot temperatures can cause hives","Omits other causes like lupus, rheumatoid arthritis, or allergies."
+kidney stones,"The main causes of kidney stones can be summarized into two categories: primary factors and secondary factors.
+
+**Primary Factors:**
+
+1. **Genetics**: Family history plays a significant role in kidney stone formation, with some families being more prone to developing stones.
+2. **Metabolic disorders**: Conditions such as hypercalciuria (excess calcium in the urine), hyperuricosuria (excess uric acid in the urine), and hyperoxaluria (excess oxalate in the urine) can increase the risk of kidney stones.
+3. **Diet**: A diet high in sodium, animal protein, and oxalate-rich foods (such as spinach, beets, and rhubarb) can contribute to the formation of certain types of kidney stones.
+4. **Dehydration**: Not drinking enough water can concentrate the salts in the urine, increasing the risk of stone formation.
+
+**Secondary Factors:**
+
+1. **Medical conditions**: Certain medical conditions, such as kidney disease, kidney disease (especially if you have a malfunctioning kidney), certain gastrointestinal disorders (e.g., Crohn's disease, gastrectomy), and obesity, can increase the risk of kidney stones.
+2. **Medications**: Certain medications, such as diuretics, lithium, and certain antibiotics, can increase the risk of kidney stones.
+3. **Supplements**: Taking certain supplements, such as calcium and vitamin D, can increase the risk of kidney stones if not taken in moderation.
+4","Fails to include other causes like hypercalciuria, hyperuricosuria, and hyperoxaluria."
+obesity,"The main causes of obesity are complex and multifactorial. Some of the key contributors include:
+
+1. **Genetics**: Genetic factors can play a role in obesity, including genetic variations that affect appetite and metabolism.
+2. **Diet**: A diet high in processed foods, added sugars, and saturated fats can contribute to weight gain and obesity.
+3. **Physical inactivity**: A sedentary lifestyle, including regular television watching and inadequate exercise, can lead to weight gain and obesity.
+4. **Metabolic factors**: Certain medical conditions, such as hypothyroidism, polycystic ovary syndrome (PCOS), and Cushing's syndrome, can affect metabolism and contribute to obesity.
+5. **Environmental factors**:
+	* **Food environment**: The availability and accessibility of unhealthy foods in schools, workplaces, and communities can contribute to obesity.
+	* **Urban environment**: Urban planning and design can promote physical activity and walkability, but also lead to increased reliance on cars and decreased physical activity.
+6. **Psychological factors**:
+	* **Stress**: Chronic stress can lead to overeating and weight gain.
+	* **Emotional eating**: Eating in response to emotions, such as boredom or anxiety, can contribute to weight gain.
+7. **Medical conditions**: Certain medical conditions, such as sleep apnea, medication side effects, and hormonal imbalances, can contribute to weight gain and obesity.
+8. **Demographic factors**:
+	* **S","Omits other causes like hypothyroidism, polycystic ovary syndrome, or sedentary lifestyle."
+osteoarthritis,"Osteoarthritis (OA) is the most common form of arthritis, characterized by the breakdown and loss of cartilage in the joints. The main causes of osteoarthritis can be divided into two categories: intrinsic and extrinsic factors.
+
+**Intrinsic Factors:**
+
+1. **Genetics**: Family history plays a crucial role in the development of OA. If your parents or grandparents have OA, you're more likely to develop it.
+2. **Age**: OA is a degenerative condition that affects people as they age. The risk of developing OA increases with age, particularly after 45.
+3. **Joint anatomy**: Some people may be born with joint abnormalities, such as narrow joint spaces or misaligned joints, which can increase the risk of OA.
+4. **Obesity**: Excess body weight puts additional stress on joints, particularly in the hips, knees, and spine.
+
+**Extrinsic Factors:**
+
+1. **Trauma**: Injuries, such as fractures or ligament sprains, can lead to OA in the affected joint.
+2. **Repetitive joint stress**: Repetitive activities, such as running, jumping, or heavy lifting, can cause wear and tear on joints.
+3. **Infections**: Severe infections, such as septic arthritis, can lead to joint damage and increase the risk of OA.
+4. **Autoimmune disorders**: Certain autoimmune conditions, such as rheumatoid arthritis, can increase the risk of developing OA.","Does not include intrinsic and extrinsic factors like fractures, fractures, or spinal injuries."
+osteoporosis,"The main causes of osteoporosis can be categorized into two main groups: risk factors and causative factors. Here are some of the main causes:
+
+**Risk Factors:**
+
+1. **Age:** Osteoporosis is more common in older adults, particularly those over 65 years.
+2. **Genetics:** Family history plays a significant role in determining the risk of developing osteoporosis.
+3. **Sex:** Women are more likely to develop osteoporosis than men, especially after menopause.
+4. **Body frame size:** Small-framed individuals are at a higher risk due to the relatively smaller bone mass.
+5. **Ethnicity:** People of European or Asian descent are at a higher risk.
+6. **Hormonal Imbalances:** Hormonal changes, such as menopause or hypogonadism (low testosterone levels), can weaken bones.
+7. **Smoking:** Smoking can slow bone growth and lead to osteoporosis.
+8. **Lack of physical activity:** Sedentary lifestyle can contribute to bone density loss.
+9. **Nutritional deficiencies:** Inadequate calcium and vitamin D intake can weaken bones.
+
+**Causative Factors:**
+
+1. **Hormonal Imbalances:** Estrogen deficiency (e.g., after menopause) and testosterone deficiency can lead to bone loss.
+2. **Systemic diseases:** Certain conditions, such as rheumatoid arthritis, thyroid disorders, and Cushing's syndrome, can cause bone loss","Omits other causes like menopause, hypogonadism, or rheumatoid arthritis."
+Parkinson's disease,"Parkinson's disease (PD) is a complex neurodegenerative disorder, and the exact causes are not yet fully understood. However, research suggests that it involves a combination of genetic, environmental, and lifestyle factors. Here are some of the main causes and risk factors associated with Parkinson's disease:
+
+1. **Genetic mutations**: Certain genetic mutations can increase the risk of developing Parkinson's disease. These mutations can affect genes involved in the production or regulation of dopamine, a neurotransmitter that plays a crucial role in motor control.
+2. **Environmental toxins**: Exposure to certain environmental toxins, such as pesticides, heavy metals (e.g., lead, mercury), and herbicides, has been linked to an increased risk of Parkinson's disease.
+3. **Aging**: Parkinson's disease is a age-related disorder, and the risk of developing the disease increases with age.
+4. **Inflammation**: Chronic inflammation in the brain, which can be triggered by infections, autoimmune disorders, or other conditions, may contribute to the development of Parkinson's disease.
+5. **Mitochondrial dysfunction**: Mitochondria are the energy-producing structures within cells. Dysfunction in mitochondrial energy production may contribute to the degeneration of dopamine-producing neurons in the brain.
+6. **Protein misfolding**: PARK2 gene mutations, which are responsible for a form of juvenile Parkinson's disease, result in accumulation of damaged mitochondria. In normal aging and neurodegenerative diseases including  PD, there is a form","Omits other factors like pesticides, heavy metals, and herbicides."
+psoriatic arthritis,"Psoriatic arthritis (PsA) is a chronic autoimmune disorder that involves inflammation of the joints and is often associated with skin psoriasis. The exact causes of PsA are not yet fully understood, but several factors contribute to its development. The main causes and risk factors include:
+
+1. **Genetics**: PsA tends to run in families, and individuals with a family history of psoriasis or PsA are more likely to develop the condition. Certain genetic mutations, such as the HLA-B27 gene, may increase the risk of developing PsA.
+2. **Autoimmune response**: In PsA, the immune system mistakenly attacks healthy tissue, leading to inflammation and joint damage. This autoimmune response is thought to be triggered by a combination of genetic and environmental factors.
+3. **Imbalances in gut bacteria**: Some research suggests that an imbalance of gut bacteria, also known as dysbiosis, may contribute to the development of PsA.
+4. **Inflammation**: Chronic inflammation is a hallmark of PsA, and it is thought to play a key role in the development of the condition.
+5. **Environmental factors**: Certain environmental factors, such as injury or infection, may trigger the onset of PsA in susceptible individuals.
+6. **Stress**: Stress may also contribute to the development of PsA, possibly by exacerbating underlying autoimmune responses.
+7. **Hormonal factors**: Hormonal changes, such as those experienced during pregnancy or menopause, may also trigger Ps","Omits other causes like genetic mutations, injury, or infection."
+cirrhosis,"Cirrhosis is a late-stage scarring of the liver that can be caused by various factors. The main causes of cirrhosis include:
+
+1. **Alcohol abuse**: Chronic excessive consumption of alcohol can cause liver inflammation, leading to scarring and fibrosis, ultimately resulting in cirrhosis. The risk increases with prolonged and heavy drinking.
+
+2. **Viral hepatitis**: Infections with hepatitis B and C viruses can cause liver inflammation and lead to scarring and cirrhosis over time.
+
+3. **Non-alcoholic steatohepatitis (NASH)**: A form of non-alcoholic fatty liver disease (NAFLD) characterized by inflammation of the liver due to excessive fat accumulation. NASH can progress to cirrhosis.
+
+4. **Genetic disorders**: Certain genetic disorders, such as alpha-1 antitrypsin deficiency, Wilson's disease, and hemochromatosis, can increase the risk of developing cirrhosis.
+
+5. **Fatty liver disease**: Excessive accumulation of fat in the liver can cause inflammation and lead to cirrhosis.
+
+6. **A1AT deficiency (Genetic disorder)**: A liver disorder passed through generations. It makes the liver build abnormal proteins which clog up and in several cases will grow with progression of cirrhosis.
+
+7. **Environmental toxins**: Exposure to toxins like pesticides, heavy metals, and certain chemicals can cause liver damage and increase the risk of cirrhosis.
+
+8.","Omits other causes like alcohol abuse, steatohepatitis, or fatty liver disease."
+delirium,"Delirium is a complex and multifaceted condition, and its causes can be grouped into several categories. Here are some of the main causes of delirium:
+
+**Medical Conditions:**
+
+1. **Infections**: Pneumonia, sepsis, urinary tract infections, and other serious infections can cause delirium.
+2. **Metabolic Disorders**: Electrolyte imbalances, kidney or liver failure, and diabetic ketoacidosis can all contribute to delirium.
+3. **Cancer**: Advanced cancer, particularly when it involves the brain, lungs, or liver, can cause delirium.
+4. **Neurological Conditions**: Stroke, traumatic brain injury, Parkinson's disease, and dementia can increase the risk of delirium.
+5. **Surgical Conditions**: Postoperative delirium is common and can be caused by anesthesia, pain, and surgical tissue damage.
+
+**Environmental and Social Factors:**
+
+1. **Hospitalization**: Admission to a hospital, especially for older adults, can cause disorientation and delirium.
+2. **Sensory Deprivation**: Prolonged isolation, sensory deprivation, or changes in sleep patterns can all contribute to delirium.
+3. **Social Isolation**: Loneliness, depression, and social disconnection can increase the risk of delirium.
+4. **Trauma**: Physical and emotional trauma, such as abuse or neglect, can lead to delirium.
+
+**Substance-Related Factors","Fails to include other causes like traumatic brain injury, traumatic brain injury, or cognitive deprivation."
+epilepsy,"Epilepsy is a complex neurological disorder that can result from various factors. The main causes of epilepsy can be broadly categorized into three groups: congenital, acquired, and secondary. Here are some of the key causes:
+
+**Congenital Causes (Present at Birth):**
+
+1. **Genetic mutations**: Mutations in genes that regulate nerve cell function can lead to inherited forms of epilepsy, such as certain types of generalized epilepsy.
+2. **Brain malformations**: Structural anomalies in the brain, such as lissencephaly (smooth brain), can disrupt normal brain functioning and lead to epilepsy.
+3. **Neonatal seizures**: Seizures that occur in the first month of life can be a precursor to epilepsy in some cases.
+
+**Acquired Causes:**
+
+1. **Traumatic brain injury**: Head trauma, concussions, or other injuries can cause epilepsy by damaging brain tissue.
+2. **Infection**: Certain infections, such as meningitis, encephalitis, or brain abscesses, can cause epilepsy in some individuals.
+3. **Strokes**: Cerebrovascular accidents can lead to seizures and epilepsy in some cases.
+4. **Neurodegenerative disorders**: Conditions like Alzheimer's disease, Parkinson's disease, and Huntington's disease can increase the risk of developing epilepsy.
+5. **Brain tumors**: Tumors can cause seizures and epilepsy, especially if they are located in areas of the brain involved in seizure generation.
+
+**Secondary Causes","Omits other causes like lissencephaly, concussions, or brain injury."
+heart failure,"Heart failure is a complex and multifaceted condition, and its causes can be varied and interrelated. Here are the main causes of heart failure:
+
+1. **Coronary Artery Disease (CAD)**: CAD, caused by the buildup of plaque in the arteries, restricts blood flow to the heart muscle, leading to inadequate blood supply and heart failure.
+2. **High Blood Pressure (Hypertension)**: Uncontrolled hypertension puts excessive strain on the heart, leading to heart failure over time.
+3. **Heart Valvular Disease**: Damage to heart valves, such as mitral regurgitation, aortic stenosis, or mitral stenosis, can lead to heart failure.
+4. **Diabetes**: Diabetes can damage the heart muscle and blood vessels, leading to heart failure.
+5. **Cardiomyopathy**: Diseases that affect the heart muscle directly, such as hypertrophic cardiomyopathy, dilated cardiomyopathy, or restrictive cardiomyopathy.
+6. **Congenital Heart Defects**: Heart defects present at birth, such as atrial septal defect (ASD) or ventricular septal defect (VSD), can lead to heart failure over time.
+7. **Heart Attack (Myocardial Infarction)**: A heart attack can damage the heart muscle, leading to heart failure.
+8. **Alcohol Abuse**: Chronic excessive alcohol consumption can lead to cardiomyopathy and heart failure.
+9. **Thy","Omits other causes like hypertrophic cardiomyopathy, hypertrophic cardiomyopathy, or ventricular septal defect."
+peptic ulcer,"The main causes of peptic ulcers can be broadly categorized into two groups: 
+
+1. **Acid-Producing Causes**: This group includes conditions that lead to an excessive production of stomach acid, which can cause damage to the lining of the stomach and duodenum (the first part of the small intestine).
+   - **Helicobacter pylori (H. pylori) Infection**: This bacteria is the most common cause of peptic ulcers. It infects the stomach lining, causing inflammation and acid production.
+   - **Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)**: Long-term use of NSAIDs such as aspirin, ibuprofen, and naproxen can damage the stomach lining and reduce the production of stomach mucus, leading to acid production and ulcer formation.
+   - **Low Stomach Mucus Production**: A decrease in stomach mucus production can cause the stomach acid to come into contact with the stomach lining, leading to ulcers.
+   - **Autoimmune Disorders**: Certain autoimmune disorders, such as Zollinger-Ellison syndrome, can cause an overproduction of stomach acid.
+
+2. **Reduced Mucus Production Causes**: This group includes conditions that lead to a reduction in stomach mucus production, causing the stomach acid to come into contact with the stomach lining.
+   - **Genetic Predisposition**: Certain genetic mutations can affect the production of stomach mucus, leading to peptic ulcers.
+   -","Does not include other causes like H. pylori, NSAIDs, or genetic predisposition."
+urinary tract infection (UTI),"The main causes of urinary tract infection (UTI) are:
+
+1. **Bacterial Invasion**: Most UTIs are caused by bacteria, particularly E. coli, Klebsiella, and Pseudomonas. These bacteria can enter the urinary tract through the urethra and multiply in the bladder, causing an infection.
+2. **Sexual Activity**: Sex can transfer bacteria from the vagina or penis to the urethra, increasing the risk of UTIs. Additionally, having vaginal sex can push bacteria closer to the urethral opening.
+3. **Weakened Immune System**: People with weakened immune systems, such as those with diabetes, HIV/AIDS, or undergoing chemotherapy, are more susceptible to UTIs.
+4. **Catheterization**: Using a catheter to drain urine can increase the risk of UTIs, especially in people with underlying medical conditions or those who use catheters for an extended period.
+5. **Urinary Tract Abnormalities**: Conditions such as an enlarged prostate, kidney stones, or a blocked urinary tract can increase the risk of UTIs.
+6. **Menstrual Cycle**: Hormonal changes during menstruation can alter the pH of the vagina, creating an environment that's more conducive to bacterial growth.
+7. **Poor Hygiene**: Not wiping correctly after using the bathroom or not practicing good hand hygiene can increase the risk of UTIs.
+8. **Age**: Older adults are more susceptible to UTIs due to decreased bladder","Omits other causes like E. coli, Klebsiella, or vaginal sex."
+melanoma,"Melanoma is a type of skin cancer that originates from melanocytes, the cells responsible for producing melanin, which gives skin its color. The main causes of melanoma are:
+
+1. **Ultraviolet (UV) Radiation**: Exposure to UV radiation from the sun or tanning beds is the primary risk factor for melanoma. UV radiation damages the DNA in skin cells, leading to genetic mutations that can cause cancer.
+2. **Genetics**: Individuals with a family history of melanoma or certain genetic disorders, such as xeroderma pigmentosum, are at increased risk of developing melanoma.
+3. **Fair Skin**: People with fair skin, light hair, and light eyes are more susceptible to melanoma due to their low levels of melanin, which offers some natural protection against UV radiation.
+4. **Tanning Bed Use**: Exposure to UV-emitting tanning beds increases the risk of melanoma, as well as other types of skin cancer.
+5. **Weakened Immune System**: Individuals with weakened immune systems, such as those with HIV/AIDS or taking immunosuppressive medications, are more vulnerable to skin cancer, including melanoma.
+6. **Previous Skin Cancer**: A history of previous skin cancer, especially melanoma, increases the risk of developing another melanoma.
+7. **Moles**: Certain types of moles, such as dysplastic nevi (atypical nevi), are associated with an increased risk of melanoma.","Fails to include other causes like melanin damage, genetic disorders, or xeroderma pigmentosum."
+gastritis,"There are several main causes of gastritis. Here are some of the most common ones:
+
+1. **Helicobacter pylori (H. pylori) infection**: This bacterial infection is a major cause of gastritis, especially chronic gastritis. H. pylori infects the stomach lining and can cause inflammation and damage to the stomach tissue.
+
+2. **Nonsteroidal anti-inflammatory drugs (NSAIDs) use**: Long-term use of NSAIDs such as aspirin, ibuprofen, and naproxen can cause stomach irritation and gastritis.
+
+3. **Stress**: Stress can trigger the release of stomach acid, leading to gastritis. Stress can also weaken the stomach lining, making it more susceptible to acid damage.
+
+4. **Diet**: Certain foods and drinks can trigger gastritis symptoms, such as:
+	* Spicy or fatty foods
+	* Citrus fruits and juices
+	* Caffeine
+	* Carbonated beverages
+	* Tomatoes and tomato-based products
+
+5. **Smoking**: Smoking can weaken the stomach lining and increase the risk of gastritis.
+
+6. **Autoimmune disorders**: Conditions such as autoimmune gastritis, where the immune system mistakenly attacks the stomach lining.
+
+7. **Genetic predisposition**: Some people may be more prone to gastritis due to their genetic makeup.
+
+8. **Other medications**: Medications such as steroids, potassium citrate, and proton pump inhibitors (PPIs) can cause","Fails to mention other causes like NSAIDs, fatty foods, or dietary predisposition."
+glaucoma,"Glaucoma is a group of eye conditions that can damage the optic nerve, leading to vision loss and even blindness if left untreated. The main causes of glaucoma are:
+
+1. **Increased Intraocular Pressure (IOP)**: Elevated pressure in the eye can cause damage to the optic nerve and eventually lead to glaucoma. This is often the result of a blockage in the drainage channels of the eye.
+2. **Genetics**: Family history plays a significant role in glaucoma, with some people being more susceptible to the condition due to their genetic makeup.
+3. **Age**: Glaucoma is more common in older adults, with the risk increasing significantly after the age of 60.
+4. **Narrow or closed drainage channels (angle-closure glaucoma)**: When the iris is thicker than normal or the drainage channels are narrow or closed, pressure can build up and cause damage to the optic nerve.
+5. **Open-angle glaucoma**: This is the most common form of glaucoma, where the drainage channels are open, but the flow of fluid through them is slow, leading to increased pressure in the eye.
+6. **Trauma**: Eye injuries, such as those caused by blows to the eye or other head trauma, can increase the risk of developing glaucoma.
+7. **Diabetes**: People with diabetes are more susceptible to glaucoma, as high blood sugar levels can affect the blood vessels in the eye.","Fails to mention IOP, family history, or other causes like blows to the eye or head trauma."
+tachycardia,"Tachycardia, also known as rapid heart rate, is a common cardiac condition that can be caused by various factors. The main causes of tachycardia can be broadly classified into three categories: physical, emotional, and medical.
+
+**Physical Causes:**
+
+1. **Dehydration**: Lack of fluids can lead to a decrease in blood volume, causing the heart to pump faster.
+2. **Exercise or physical activity**: Engaging in intense physical activity can trigger tachycardia.
+3. **Anemia**: Low red blood cell count can lead to a decrease in oxygen delivery to the body, causing the heart to beat faster.
+4. **Hypovolemia**: Low blood volume can cause the heart to pump faster to compensate.
+5. **Hormonal imbalances**: Hormones such as thyroid hormones, adrenaline, and cortisol can stimulate the heart to beat faster.
+
+**Emotional Causes:**
+
+1. **Stress and anxiety**: Stress and anxiety can trigger the release of adrenaline, leading to tachycardia.
+2. **Fear and panic**: Extreme fear or panic can trigger a rapid heart rate.
+3. **Emotional overload**: Overwhelming emotions such as grief, anger, or excitement can cause tachycardia.
+
+**Medical Causes:**
+
+1. **Atrial fibrillation**: A type of irregular heartbeat that can lead to tachycardia.
+2. **Heart valve problems**: Abnormal heart valve function can disrupt","Omits other causes like adrenaline imbalances, stress, or stress."
+anemia,"The main causes of anemia can be categorized into several broad groups. Here are some of the most common ones:
+
+**1. Blood Loss or Iron Deficiency:**
+
+- Menstruation (repeated or heavy bleeding)
+- Pregnancy (especially if not enough iron is consumed during pregnancy)
+- Surgery or injury
+- Ulcers or colon cancer
+- Heavy bleeding in the digestive tract
+- Poor diet lacking iron-rich foods
+
+**2. Increased Red Blood Cell Destruction (Hemolysis):**
+
+- Sickle cell disease
+- Thalassemia (blood disorder)
+- Autoimmune disorders (e.g., autoimmune hemolytic anemia)
+- Certain infections (e.g., malaria)
+- Congenital heart defects
+- Abnormal heart conditions
+
+**3. Vitamin Deficiencies:**
+
+- Vitamin B12 deficiency (often due to a lack of intrinsic factor in the stomach)
+- Vitamin C deficiency (often due to scurvy or a long-term deficiency)
+- Folate deficiency (often due to inadequate dietary intake)
+- Vitamin E deficiency (rare)
+
+**4. Chronic Diseases:**
+
+- Chronic kidney disease
+- Cancer (chemotherapy and tumor growth)
+- Chronic heart disease (decreased oxygen levels)
+- Chronic infections (e.g., HIV/AIDS)
+- Liver disease
+- Malnutrition
+
+**5. Other Causes:**
+
+- Genetic disorders (e.g., Fanconi anemia)
+- Breastfeeding (in rare cases)
+- Some medications (e.g","Fails to mention other causes like autoimmune hemolytic anemia, autoimmune hemolytic anemia, or breastfeeding."
+pancreatitis,"The main causes of pancreatitis can be broadly categorized into two types: acute and chronic. Here are some of the primary causes:
+
+**Acute Pancreatitis Causes:**
+
+1. **Gallstones:** Gallstones blocking the bile duct, which carries digestive enzymes from the gallbladder to the small intestine, can cause acute pancreatitis.
+2. **High levels of triglycerides:** Very high levels of triglycerides (fats) in the blood can cause acute pancreatitis, often associated with the use of excessive alcohol or certain medications.
+3. **Asthma medications:** Certain asthma medications, such as corticosteroids, can raise triglyceride levels and cause pancreatitis.
+4. **Drugs and chemicals:** Some medications, such as statins (cholesterol-lowering medications) and painkillers, as well as chemicals, can cause pancreatitis as a side effect.
+5. **Infections:** Certain infections, such as pancreatitis caused by scorpion stings or certain tropical diseases, can lead to acute pancreatitis.
+6. **Trauma:** Severe trauma to the abdomen can cause pancreatitis by damaging the pancreas.
+7. **Surgery:** Certain surgical procedures, including abdominal surgery, can increase the risk of acute pancreatitis.
+
+**Chronic Pancreatitis Causes:**
+
+1. **Long-term alcohol abuse:** Chronic heavy drinking can damage the pancreas and lead to chronic pancreatitis.
+2. **Weakened immune system:**","Fails to include other causes like triglycerides, medications, or trauma."
+tuberculosis,"The main causes of tuberculosis (TB) are:
+
+1. **Mycobacterium tuberculosis (MTB) bacteria**: This is the primary cause of TB. MTB is a type of bacteria that typically affects the lungs, but it can also affect other parts of the body, such as the spine, kidneys, and brain.
+2. **Infection through respiratory droplets**: When an individual with active TB coughs, sneezes, or speaks, they release respiratory droplets that can contain the bacteria. These droplets can be inhaled by others, leading to infection.
+3. **Poor sanitation and hygiene**: Inadequate access to clean water, sanitation, and hygiene can facilitate the spread of TB.
+4. **Malnutrition and HIV/AIDS**: Malnutrition can weaken the immune system, making it more difficult for the body to fight off TB infection. HIV/AIDS can also compromise the immune system, increasing the risk of developing active TB.
+5. **Crowding and poor ventilation**: Close living quarters and poor ventilation can increase the risk of transmission, particularly in settings such as prisons, nursing homes, and homeless shelters.
+6. **Inadequate healthcare**: In areas with limited access to healthcare, TB may go undiagnosed or untreated, leading to the spread of the disease.
+7. **Genetic predisposition**: Certain individuals may be more susceptible to TB due to genetic factors, such as a family history of TB or certain genetic mutations.
+
+It's worth noting that","Omits other causes like coughing, sneeze, or speech."
+chickenpox,"Chickenpox, also known as varicella, is a highly contagious viral illness primarily affecting children and caused by the varicella-zoster virus (VZV). Here are the main causes and risk factors of chickenpox:
+
+1. **Varicella-zoster virus (VZV)**: This is the primary cause of chickenpox. The virus is highly contagious and can be spread through contact with an infected person's respiratory secretions, such as saliva, mucus, and droplets.
+2. **Person-to-person transmission**: Chickenpox is usually spread through:
+	* Direct contact with an infected person, such as touching or shaking hands
+	* Indirect contact, such as touching contaminated surfaces or items
+	* Respiratory droplets, such as when an infected person coughs or sneezes
+3. **Contamination of surfaces and objects**: The virus can survive on surfaces and objects for several hours, allowing for indirect transmission.
+4. **Close contact with an infected person**: Being in close proximity to someone with chickenpox increases the risk of transmission.
+5. **Immunocompromised status**: People with weakened immune systems, such as those with HIV/AIDS, cancer, or taking immunosuppressive medications, are more susceptible to chickenpox and may experience more severe symptoms.
+6. **No vaccination or incomplete vaccination**: Children and adults who have not received the varicella vaccine or have incomplete vaccination are more likely to contract","Fails to mention other causes like saliva, mucus, or contaminated surfaces."
+mumps,"Mumps is a viral infection caused by the mumps virus. The main causes of mumps are:
+
+1. **The mumps virus itself**: Mumps is highly contagious and can be spread through contact with the saliva, mucus, or respiratory droplets of an infected person. The virus can also be spread through contact with contaminated surfaces or objects.
+
+2. **Contagiousness**: Infected people can spread the mumps virus 1-2 days before symptoms appear to 5 days after the onset of symptoms.
+
+3. **Poor hygienic practices**: Not washing hands regularly, especially after coughing or sneezing, can increase the risk of contracting mumps.
+
+4. **Close contact with others**: People in close contact with infected individuals, such as family members, classmates, or coworkers, are at a higher risk of contracting mumps.
+
+5. **Age**: Mumps is most commonly seen in children under 15 years old, especially those in primary and secondary schools.
+
+6. **Vacination status**: While the mumps vaccine is highly effective, two doses are not 100% effective against the virus. The efficacy rate of the mumps vaccine is around 88-94%.","Omits other causes like saliva, mucus, or respiratory droplets."
+tetanus,"Tetanus, also known as lockjaw, is a bacterial infection caused by Clostridium tetani that can lead to muscle stiffness and spasms. The main causes of tetanus include:
+
+1. **Bacterial spores in the environment**: Spores of Clostridium tetani can be found in soil, dust, and the intestinal tracts of animals. These spores can contaminate wounds, injecting the bacteria into the body and leading to infection.
+
+2. **Contaminated soil and dust**: People who work in fields, gardens, or construction sites are at a higher risk of exposure to tetanus spores, particularly if they have wounds or lacerations that are exposed to these potentially contaminated environments.
+
+3. **Poor wound care and hygiene**: If a wound becomes contaminated with tetanus spores and is not properly cleaned and cared for, infection can occur. Poor wound care can increase the risk of tetanus, especially if the wound is deep or puncture wounds are involved.
+
+4. **Inadequate tetanus vaccination**: Although vaccination is effective in preventing tetanus, incomplete vaccination or failure to receive booster shots can increase the risk of infection. Vaccination is especially crucial for people who work with animals, engage in high-risk activities (such as farming or excavation), or have certain medical conditions (like diabetes).
+
+5. **Objects that break the skin**: Deep puncture wounds or lacerations caused by metal (such as a nail or screw), sharp","Fails to include other causes like soil, dust, or contaminated soil."
+polio,"The main cause of polio is a highly infectious virus known as the poliovirus. This virus primarily affects the nervous system and is highly contagious. The poliovirus is spread through:
+
+1. **Fecal-oral transmission**: Poliovirus is present in the feces of an infected person, and it can be transmitted to others through food or water contaminated with the feces of an infected person, or through poor personal hygiene.
+2. **Poor sanitation and hygiene**: Inadequate access to clean water, sanitation, and hygiene can lead to the spread of the virus, as it can survive in contaminated water and feces for extended periods.
+3. **Close contact**: The virus can be spread from an infected person to another person through direct contact, such as shaking hands, sharing utensils, or touching contaminated surfaces.
+4. **Contaminated food and water**: Consuming food or water contaminated with the virus can lead to infection.
+5. **Vulnerability in the gut**: Those with weakened or compromised immune systems, as well as young children, are more susceptible to the virus due to the fragility of their gut barrier.
+
+Additionally, certain factors can increase the risk of polio infection, including:
+
+* **Vitamin A deficiency**: A vitamin A deficiency can weaken the immune system and make it more difficult for the body to fight off the virus.
+* **Poor nutritional status**: Malnutrition and inadequate nutrition can weaken the immune system and increase the risk of infection.
+*","Omits other causes like shaking hands, sharing utensils, or touching contaminated surfaces."
+lupus,"Lupus, also known as systemic lupus erythematosus (SLE), is a chronic autoimmune disease that affects various parts of the body. The exact causes of lupus are still not fully understood, but research has identified several factors that may contribute to its development. Here are the main causes and risk factors associated with lupus:
+
+1. **Genetic predisposition**: Lupus tends to run in families, suggesting a genetic component. Certain genetic variants can increase the risk of developing the disease.
+2. **Autoimmune response**: Lupus is characterized by an overactive immune response, where the body's immune system attacks its own tissues, including the skin, joints, and organs. This autoimmune response can be triggered by various factors, including infections and environmental toxins.
+3. **Environmental triggers**: Some environmental factors may trigger lupus in people with a genetic predisposition. These triggers can include:
+	* Ultraviolet (UV) light: Exposure to UV light can trigger lupus in some individuals.
+	* Viruses: Certain viruses, such as the Epstein-Barr virus (EBV), may trigger lupus.
+	* Hormonal changes: Hormonal fluctuations during pregnancy, menopause, or puberty may contribute to lupus.
+	* Medications: Certain medications, such as some types of antibiotics and anti-seizure medications, can trigger lupus.
+4. **Hormonal influences**: Lupus is more common in women, particularly those between the ages of 15","Omits other triggers like UV light, anti-seizure medications, or infections."
+hemophilia,"Hemophilia is a genetic disorder that affects the blood's ability to clot. The main causes of hemophilia are:
+
+1. **Genetic mutations**: Hemophilia A and B are caused by mutations in the F8 and F9 genes, respectively. These genes are responsible for producing clotting factor VIII and IX, which are essential for blood clotting. Mutations in these genes can lead to a deficiency or malfunction of these clotting factors, resulting in hemophilia.
+
+2. **Inheritance pattern**: Hemophilia A and B are X-linked recessive disorders, meaning they are inherited from an affected mother who carries a mutated gene on her X chromosome. Sons are more likely to inherit the mutated gene because they have one X chromosome, while daughters have two X chromosomes and are more likely to be carriers.
+
+3. **Spontaneous mutations**: In some cases, hemophilia can occur due to spontaneous mutations in the F8 or F9 genes, which can happen in both males and females.
+
+4. **Aging father effect**: Men over 40 years have an increased risk of transmitting the mutated F8 gene to their offspring as they have an increased number of somatic mutations in their genes over time
+
+5. **Cancer risk**: Cancer such as leukemia has been known to be a risk of causing individuals with family history of the disorder and having the gene naturally to have the disorder due to a new mutations because of the cell growth - although this is rare.
+
+6. **New mutations",Fails to mention spontaneous mutations in F8 or F9 genes.
+Chronic Fatigue Syndrome (CFS),"The main causes of Chronic Fatigue Syndrome (CFS), also known as Myalgic Encephalomyelitis (ME), are not yet fully understood. However, research has identified several contributing factors that may play a role in its development. These include:
+
+1. **Viral infections**: Some viruses, such as Epstein-Barr virus (EBV), enteroviruses, and retroviruses, may trigger CFS in susceptible individuals.
+2. **Mitochondrial dysfunction**: Mitochondria are the energy-producing structures within cells. Abnormalities in mitochondrial function may lead to energy depletion and contribute to CFS symptoms.
+3. **Hormonal imbalances**: Hormonal changes, such as adrenal fatigue, hypothyroidism, or insulin resistance, may contribute to fatigue, lethargy, and other CFS symptoms.
+4. **Immune system dysfunction**: An abnormal immune response, such as chronic inflammation or autoimmunity, may play a role in the development of CFS.
+5. **Genetic predisposition**: Research suggests that CFS may have a genetic component, with certain genetic variants increasing the risk of developing the condition.
+6. **Stress and trauma**: Traumatic events, such as physical or emotional abuse, or chronic stress, may trigger CFS in some individuals.
+7. **Autoimmune disorders**: Certain autoimmune conditions, such as lupus or rheumatoid arthritis, may increase the risk of developing CFS.
+8. **Nutritional","Omits other causes like EBV, enteroviruses, or hyperthyroidism."
