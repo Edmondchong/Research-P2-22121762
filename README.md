@@ -9,7 +9,7 @@ All files are renamed accordingly:
 
 -> ML-c-test = testing set for ML (one-hot encoded), where c stands for combined_set.
 
--> Files are saved this way to clearly differentiate them and avoid confusion.
+-> Files are saved this way to clearly differentiate them and avoid confusion. 
 
 
 
