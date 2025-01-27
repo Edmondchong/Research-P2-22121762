@@ -16,7 +16,7 @@ All files are renamed accordingly:
 
 
 Notes:
-Since fine-tuning ClinicalT5 is super time-consuming and performs worse than other LLMs especially standalone ClinicalT5, PubMedBERT is added as the extra LLM to match the three ML models and three LLMs (3ML vs 3LLM). However, the best performance is still achieved by BioClinicalBERT most of the time, followed by BioBERT in some cases. The overall performance are still the same.
+Since fine-tuning ClinicalT5 is super time-consuming and performs worse than other LLMs especially standalone ClinicalT5, PubMedBERT is added as the extra LLM to match the three ML models and three LLMs (3ML vs 3LLM). However, the best performance is still achieved by BioClinicalBERT most of the time, followed by BioBERT in some cases. The "overall performance are still the same".
 
 
 ->PubMedBERT outperforms ClinicalT5 in both performance and time-efficiency.
